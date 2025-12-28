@@ -224,7 +224,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Citation
 
-If you use or adapt this work, please cite the corresponding manuscript: Raut S N, Patil P B (December 27, 2025) Automated Fractal Analysis of Right and Left Condyles on Digital Panoramic Images Among Patients With Temporomandibular Disorder (TMD) and Use of Machine Learning Algorithms in the Diagnosis of TMD. Cureus 17(12): e100165. doi:10.7759/cureus.100165
+If you use or adapt this work, please cite the corresponding manuscript: Raut S N, Patil P B (December 27, 2025) Automated Fractal Analysis of Right and Left Condyles on Digital Panoramic Images Among Patients With Temporomandibular Disorder (TMD) and Use of Machine Learning Algorithms in the Diagnosis of TMD. Cureus 17(12): e100165. https://doi.org/10.7759/cureus.100165
 
 ```bibtex
 @article{Raut S N, Patil P B (December 27, 2025),
