@@ -244,9 +244,9 @@ Raut S N, Patil P B (December 27, 2025) Automated Fractal Analysis of Right and 
 
 For questions regarding methodology or code:
 
-- **Corresponding Author:** [Author Name]
-- **Email:** [institutional.email@university.edu]
-- **Institution:** [Department, University]
+- **Corresponding Author:** [Dr.Sumeet N. Raut]
+- **Email:** [dr.sumeet.raut143@gmail.com]
+- **Institution:** [Oral Medicine and Radiology, Employees' State Insurance Corporation Dental College and Hospital, Kalaburagi, INDIA]
 
 ---
 
